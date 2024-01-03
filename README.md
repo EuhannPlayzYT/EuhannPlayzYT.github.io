@@ -12,11 +12,4 @@ Yuji is a member of a "Paranormal Activity" club in his highschool. He and his f
 
 This movie serves as the prequel to the entire Jujutsu Kaisen series. Yuta Okkotsu is a nervous high school student who is suffering from a serious problem. His childhood friend Rika has turned into a curse and won't leave him alone. Since Rika is no ordinary curse, his plight is noticed by Gojo Satoru, a teacher at Jujutsu High, a school where fledgling exorcists learn to combat curses. Gojo convinces Yuta to enroll but can he learn enough in time to confront the curse that haunts him?
 
-Jujutsu Kaisen Opening and Ending songs
-<div class="embed-spotify-list">
-<iframe style="border-radius:12px" src=<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/0k5f5oHoRCpDMVWeinSgvV?utm_source=generator" 
-  width="100%" 
-  height="152" 
-  frameBorder="0" a
-  llowfullscreen="" 
-  allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
